@@ -15,7 +15,7 @@ text_model = train_model()
 
 
 def log_request(user_input):
-    with open('database.txt', 'a') as f:
+    with open('dataset.txt', 'a') as f:
         f.write(user_input + '\n')
 
 
