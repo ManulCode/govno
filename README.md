@@ -6,4 +6,14 @@
 
 В `dataset.txt` пишите любой текст, главное не меньше 1к строчек
 
-Для норм работы пишите в консоле `pip install -r requirements.txt`, но убедитесь что у вас Python добавлен(Add to_) PATH
+Для норм работы пишите в консоле `pip install -r requirements.txt`, но убедитесь что у вас Python добавлен(Add to) PATH
+
+---
+
+Если вы все сделали правильно, то в консоле будет так:
+
+![image](https://user-images.githubusercontent.com/103038284/222962275-d4467980-2e60-486e-b893-9ce0cd11d053.png)
+
+Вот работа(сверху запрос, снизу ответ)
+
+![image](https://user-images.githubusercontent.com/103038284/222962362-93e055f2-0274-48e1-b684-914e45fe67ab.png)
